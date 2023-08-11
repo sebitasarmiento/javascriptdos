@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+}
+
+.cardcontent {
+
+    justify-content: center;
+
+}
+
+.ejercicio-dos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.ejercicio-dos h3 {
+    text-align: center;
+}
+
+.ejercicio-dos img {
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    height: 50%;
+}
+
+.resultado {
+    margin: 10px;
+    text-align: center;
+}
+
+.ejercicio-tres {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.numeros .boton-verifica {
+    margin: 10px;
+}
